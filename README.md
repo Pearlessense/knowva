@@ -1,4 +1,4 @@
-<h3 align="center">knowva.lol</h3>
+<h3 align="center">knowva</h3>
   <p align="center">
     a work-in-progress discord.js bot focused on automation and utility.
   </p>
