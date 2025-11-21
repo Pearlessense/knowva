@@ -4,20 +4,26 @@
   </p>
 </div>
 
+---
+
 ## ✧ about knowva.lol
 i’ve seen a lot of discord bots that only focus on moderation or fun commands, but not many that lean into **automation**. knowva aims to be a swiss-army style assistant for discord.
 - handling tasks, streamlining workflows, and making servers more productive.
-
+1
 **here's why you should consider giving it a try:**
 * user installation allows you to use slash commands from **anywhere** in discord, even in dms.
 * **automation-first design** means you can set reminders, schedule messages, and run utilities without clutter.
 * completely **free** to use, with optional premium perks for advanced features.
+
+---
 
 ## ༄ link
 **[coming soon]**
 
 ## ༄ updates
 **[none yet]**
+
+---
 
 ## ༄ commands
 all the commands of the bot are documented here, including their buttons. ephemeral is not included.
@@ -51,8 +57,12 @@ provides simple moderation commands for server management.
 * included fields are: **Kick, Ban, Timeout, Role Assign**
   * **Logs:** sends an embed with recent moderation actions.
 
+---
+
 ## 𖤝 roadmap
 - [ ] wip
+
+---
 
 ### Contact Information
 if you’d like to reach out about knowva.lol, here are the ways you can get in touch:
