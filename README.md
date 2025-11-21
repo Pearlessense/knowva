@@ -52,5 +52,11 @@ provides simple moderation commands for server management.
   * **Logs:** sends an embed with recent moderation actions.
 
 ## 𖤝 roadmap
-
 - [ ] wip
+
+### Contact Information
+if you’d like to reach out about knowva.lol, here are the ways you can get in touch:
+
+* **discord** → discord.gg/knowva
+* **email** → rhy@guns.lol
+* **any issues** → please shoot me an email or open a ticket in the discord server if you find any issues regarding knowva.
