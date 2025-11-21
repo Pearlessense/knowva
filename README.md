@@ -64,7 +64,7 @@ provides simple moderation commands for server management.
 
 ---
 
-### Contact Information
+### ✧ Contact Information
 if you’d like to reach out about knowva.lol, here are the ways you can get in touch:
 
 * **discord** → discord.gg/knowva
