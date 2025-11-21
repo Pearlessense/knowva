@@ -67,6 +67,9 @@ provides simple moderation commands for server management.
 ### ✧ Contact Information
 if you’d like to reach out about knowva.lol, here are the ways you can get in touch:
 
-* **discord** → discord.gg/knowva
-* **email** → rhy@guns.lol
+[![Discord](https://img.shields.io/badge/Discord-join-blue?logo=discord&logoColor=white)](https://discord.gg/knowva)
+[![Email](https://img.shields.io/badge/Email-rhy%40guns.lol-red?logo=gmail&logoColor=white)](mailto:rhy@guns.lol)
+
 * **any issues** → please shoot me an email or open a ticket in the discord server if you find any issues regarding knowva.
+
+---
