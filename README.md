@@ -7,7 +7,7 @@
 ---
 
 ## ✧ about knowva.lol
-i’ve seen a lot of discord bots that only focus on moderation or fun commands, but not many that lean into **automation**. knowva aims to be a swiss-army style assistant for discord.
+i’ve seen a lot of discord bots that only focus on moderation or fun commands, but not many that lean into **automation**. knowva aims to be a multi-tool use assistant for discord.
 - handling tasks, streamlining workflows, and making servers more productive.
 1
 **here's why you should consider giving it a try:**
