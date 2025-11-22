@@ -20,52 +20,6 @@ i’ve seen a lot of discord bots that only focus on moderation or fun commands,
 ## ༄ link
 **https://knowva.lol/**
 
-## ༄ updates
-**[none yet]**
-
----
-
-## ༄ commands
-all the commands of the bot are documented here, including their buttons. ephemeral is not included.
-
-### ⊹ /info | view information about knowva.lol
-gives you an embed containing information about the bot, including uptime, the owner, and discord.py version.
-* included fields are: **Uptime, Owner, Version**
-  * **Progress Log:** sends an embed with the bot’s major changes and when the source code was modified.
-  * **Add App:** opens a link to authorize the bot to your discord server.
-
-### ⊹ /reminder | set a reminder
-creates a reminder that pings you or a channel at a specified time.
-* included fields are: **Message, Time, Repeat**
-  * **List Reminders:** shows all active reminders.
-  * **Delete Reminder:** removes a reminder by id.
-
-### ⊹ /schedule | schedule a message
-lets you schedule announcements or recurring messages.
-* included fields are: **Channel, Message, Frequency**
-  * **Edit Schedule:** modify an existing scheduled message.
-  * **Cancel Schedule:** stop a scheduled message.
-
-### ⊹ /convert | quick converters
-convert units, currencies, or time zones directly in discord.
-* included fields are: **Input, Output**
-  * **Currency:** exchange rates in real time.
-  * **Units:** metric ↔ imperial conversions.
-
-### ⊹ /moderation | basic moderation tools
-provides simple moderation commands for server management.
-* included fields are: **Kick, Ban, Timeout, Role Assign**
-  * **Logs:** sends an embed with recent moderation actions.
-
----
-
-## 𖤝 roadmap
-- [x] Core Bot Setup
-- [ ] Utility Commands
-- [ ] Moderation Suite
-- [ ] Dashboard
-- [ ] Public Release *
-
 ---
 
 ### ✧ Contact Information
