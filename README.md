@@ -18,7 +18,7 @@ i’ve seen a lot of discord bots that only focus on moderation or fun commands,
 ---
 
 ## ༄ link
-**[coming soon]**
+**https://knowva.lol/**
 
 ## ༄ updates
 **[none yet]**
@@ -60,7 +60,11 @@ provides simple moderation commands for server management.
 ---
 
 ## 𖤝 roadmap
-- [ ] wip
+- [x] Core Bot Setup
+- [ ] Utility Commands
+- [ ] Moderation Suite
+- [ ] Dashboard
+- [ ] Public Release *
 
 ---
 
