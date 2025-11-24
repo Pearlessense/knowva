@@ -1,6 +1,5 @@
 <h3 align="center">knowva</h3>
   <p align="center">
-    brought to you by rhy/pearl\n
     a work-in-progress discord.js bot focused on automation, moderation, and utility.
   </p>
 </div>
