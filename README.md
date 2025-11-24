@@ -1,24 +1,18 @@
 <h3 align="center">knowva</h3>
   <p align="center">
-    a work-in-progress discord.js bot focused on automation and utility.
+    a work-in-progress discord.js bot focused on automation, moderation, and utility.
   </p>
 </div>
 
 ---
 
-## ✧ about knowva.lol
+## ✧ about [knowva.lol](https://knowva.lol/)
 i’ve seen a lot of discord bots that only focus on moderation or fun commands, but not many that lean into **automation**. knowva aims to be a multi-tool use assistant for discord.
 - handling tasks, streamlining workflows, and making servers more productive.
 
 **here's why you should consider giving it a try:**
-* user installation allows you to use slash commands from **anywhere** in discord, even in dms.
 * **automation-first design** means you can set reminders, schedule messages, and run utilities without clutter.
 * completely **free** to use, with optional premium perks for advanced features.
-
----
-
-## ༄ link
-**https://knowva.lol/**
 
 ---
 
