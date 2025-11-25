@@ -18,8 +18,8 @@ Most Discord bots focus on moderation or entertainment. Knowva takes a different
 ### ✧ Contact
 You can connect with us here:
 
-[![Discord](https://img.shields.io/badge/Discord-join-blue?logo=discord&logoColor=white)](https://discord.gg/knowva)  
-[![Email](https://img.shields.io/badge/Email-rhy%40guns.lol-red?logo=gmail&logoColor=white)](mailto:rhy@guns.lol)
+[![Discord](https://img.shields.io/badge/Discord-Join-8EA58C?logo=discord&logoColor=white)](https://discord.gg/knowva)  
+[![Email](https://img.shields.io/badge/Email-Email-8EA58C?logo=gmail&logoColor=white)](mailto:rhy@guns.lol)
 
 For any issues, please email us or open a ticket in the Discord server.
 
